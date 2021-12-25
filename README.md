@@ -1,10 +1,10 @@
-# Hackaviz _ 2018
+# Hackaviz  2018
 
 L'hackaviz est un concours annuel de visualisation de données (dataviz) organisé par [Toulouse Dataviz](https://toulouse-dataviz.fr).
 
-Les règles [Les conditions du concours et les résultats](http://toulouse-dataviz.fr/resultats-hackaviz-2018-2)
+[Les règles, les conditions](https://toulouse-dataviz.fr/hackaviz/2018-contest/) du concours et les [résultats](https://toulouse-dataviz.fr/hackaviz/2018-results/)
 
-3 formats différents pour un même jeu de donnéees [La descrption des données](http://toulouse-dataviz.fr/telechargement)
+3 formats différents pour un même jeu de donnéees [La descrption des données](https://toulouse-dataviz.fr/hackaviz/2018-data/)
 
 
 
